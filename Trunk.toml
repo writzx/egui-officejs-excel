@@ -1,2 +1,6 @@
 [build]
 filehash = false
+
+[serve]
+tls_key_path = "tls/localhost.key"
+tls_cert_path = "tls/localhost.crt"
